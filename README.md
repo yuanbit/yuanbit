@@ -1,6 +1,6 @@
 ## Hi there, I am Bithiah (BITH-ee-ah) 👋
 
-Here are some of my machine learning and data science projects:
+Here are some of my **Machine Learning** and **Data Science** projects:
 
 * 💰 [BERT-powered Financial Question Answering System](https://github.com/yuanbit/FinBERT-QA)
   - (NLP, Deep Learning, Search)
