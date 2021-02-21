@@ -15,7 +15,7 @@ Here are some of my **Machine Learning** and **Data Science** projects:
 * 👩‍🦰 [Facial Recoginiton and Clustering](https://github.com/yuanbit/face_clustering/blob/master/final_report/report.pdf)
   - (Computer Vision, Deep Learning, Machine Learning)
 
-Feel free to reach out to me about **NLP**, **Search**, and **Recommender Systems**.
+Feel free to reach out to me about **NLP**, **Search**, **Recommender Systems**, and **Design**.
 
 - 💬 Message me on [Linkedin](https://www.linkedin.com/in/yuanb/)
 - 📝 Follow my Data Sciece and Design blogs on [Medium](https://yuanb.medium.com)
