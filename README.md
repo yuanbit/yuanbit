@@ -5,7 +5,7 @@ Here are some of my machine learning and data science projects:
 * 💰 [BERT-powered Financial Question Answering System](https://github.com/yuanbit/FinBERT-QA)
   - (NLP, Deep Learning, Search)
 * ☁️ [Production-ready cloud-native Question Answering System](https://github.com/yuanbit/jina-financial-qa-search)
-  - (NLP, Deep Learning, Search)
+  - (NLP, Deep Learning, Search, MLOps)
 * 😄 [Sentiment Analysis of Tweets](https://github.com/yuanbit/sentiment140-biLSTM/blob/master/sentiment140%20_biLSTM.ipynb)
   - (NLP, Deep Learning)
 * 📖 [Scientific Literature Recommender System](https://github.com/yuanbit/literature-recommender-system)
