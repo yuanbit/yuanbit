@@ -9,9 +9,9 @@ Here are some of my **Machine Learning** and **Data Science** projects:
 * 😄 [Sentiment Analysis of Tweets](https://github.com/yuanbit/sentiment140-biLSTM/blob/master/sentiment140%20_biLSTM.ipynb)
   - (NLP, Deep Learning)
 * 📖 [Scientific Literature Recommender System](https://github.com/yuanbit/literature-recommender-system)
-  - (NLP, Machine Learning, Distributed Computing)
+  - (NLP, Machine Learning, Personalization, Distributed Computing)
 * 🖥️ [Product Recommender System for Amazon Electronic Products](https://github.com/yuanbit/product-recommender-system/blob/master/yuan-daja-daql-ss18-project.ipynb)
-  - (Machine Learning)
+  - (Machine Learning, Personalization)
 * 👩‍🦰 [Facial Recoginiton and Clustering](https://github.com/yuanbit/face_clustering/blob/master/final_report/report.pdf)
   - (Computer Vision, Deep Learning, Machine Learning)
 
