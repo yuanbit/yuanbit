@@ -18,7 +18,7 @@ Here are some of my **Machine Learning** and **Data Science** projects:
 Feel free to reach out to me about **NLP**, **Search**, **Recommender Systems**, and **Design**.
 
 - 💬 Message me on [Linkedin](https://www.linkedin.com/in/yuanb/)
-- 📝 Follow my Data Sciece and Design blogs on [Medium](https://yuanb.medium.com)
+- 📝 Follow my Data Science and Design blogs on [Medium](https://yuanb.medium.com)
 - 🎨 Check out my UI designs on [Behance](https://www.behance.net/yuanb)
 
 I am currently transitioning into product design, be sure to also take a look at my [Portfolio](https://www.yuanb.design)!
