@@ -21,5 +21,3 @@ Feel free to reach out to me about **NLP**, **Search**, **Recommender Systems**,
 - 📝 Follow my Data Science and Design blogs on [Medium](https://yuanb.medium.com)
 - 🎨 Check out my UI designs on [Behance](https://www.behance.net/yuanb)
 
-I am currently transitioning into product design, be sure to also take a look at my [Portfolio](http://www.yuanb.design)!
-
