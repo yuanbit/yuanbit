@@ -14,10 +14,13 @@ Here are some of my **Machine Learning** and **Data Science** projects:
   - (Machine Learning, Personalization)
 * 👩‍🦰 [Facial Recoginiton and Clustering](https://github.com/yuanbit/face_clustering/blob/master/final_report/report.pdf)
   - (Computer Vision, Deep Learning, Machine Learning)
+* 🤖 [Realtime Chat App with Sentiment Analysis](https://github.com/yuanbit/chat_app)
+  - (Full-Stack Development, NLP, Machine Learning)
 
-Feel free to reach out to me about **NLP**, **Search**, **Recommender Systems**, and **Design**.
+
+Feel free to reach out to me about **NLP**, **Search**, **Recommender Systems**, **Design**, and **Real-Time Art**
 
 - 💬 Message me on [Linkedin](https://www.linkedin.com/in/yuanb/)
 - 📝 Follow my Data Science and Design blogs on [Medium](https://yuanb.medium.com)
-- 🎨 Check out my UI designs on [Behance](https://www.behance.net/yuanb)
+- 🎨 Check out my Designs & Art [here](https://yuanb.webflow.io/)
 
